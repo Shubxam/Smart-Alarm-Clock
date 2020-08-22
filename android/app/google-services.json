@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931310358781",
+    "firebase_url": "https://alarmy-9c449.firebaseio.com",
+    "project_id": "alarmy-9c449",
+    "storage_bucket": "alarmy-9c449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931310358781:android:65956fa875b890e4d0ee94",
+        "android_client_info": {
+          "package_name": "com.example.alarm_clock_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931310358781-4b7qubg8en4t7d6vq1loh87ln7034oku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAib5peQInBTlOmLyzhWraugmS0q1TDnPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931310358781-4b7qubg8en4t7d6vq1loh87ln7034oku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
